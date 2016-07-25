@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MagicWeight</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_content_web">ContentWebActivity</string>
+    <string name="main_name">麦吉减肥法</string>
+    <string name="web_name">详情</string>
+</resources>

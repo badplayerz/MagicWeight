@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/exploded-aar/com.github.cpoopc/scrollablelayoutlib/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="43c0764c624394b2858c8471df571c2d6f0ba48c">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.cpoopc-scrollablelayoutlib-1.0.0_0fc53c6a094efbb06abae182960419fd51d02b08/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/exploded-aar/com.bigkoo/convenientbanner/2.0.5/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b99798f653c15a17af6779bb9f01a66f2ee6e6ef">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.bigkoo-convenientbanner-2.0.5_895adb5c99c85fe0d18f87cfbb23edfac7af4a77/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.7/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="41a4edf3c43fdbce6eba27da50b17ff9933987f1">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.pnikosis-materialish-progress-1.7_c115782a15dd7028b6e8755b8c4f09c6f3c682c4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/2.2.1/1aa64feab6440fff9a7fcfb1db1e6151d36d1254/greendao-2.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1aa64feab6440fff9a7fcfb1db1e6151d36d1254">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-2.2.1_fdc4ca914335a8e57b7800a41b618a73f7dc7a74/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_ccbd4676ff9e86dcd0f137dc0e7e0098b070cdd5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_3b24740d11b239645c3b7ce99d4af3579106d97a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_0f3e36b746f837d10ab32203b0be78e7ac43afba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.1.0_0adf9fae748a073746a3c20eb7b144c94bacd828/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.0/748f0546d5c3c27f1aef07270ffea0c45f0c42a4/rxjava-1.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.0_11735b8e04564a9c6bce7184f663986f0e687152/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_b36478e621da415dfc9c3578ccc1971130b804b8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_557453b262c4b152afca338d71bed893f6381d32/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.0.1/aab9085bca0c26dcb9cb11837a5f5e22cc102a5e/analytics-6.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aab9085bca0c26dcb9cb11837a5f5e22cc102a5e">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/analytics-6.0.1_62badd76d0c1aaaf5b754e4d075ee4129be5a282/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a30c5100f25dbb98633d437ea453f3f583faa90a">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6f4cfb610496bc6ba8affdaa5c32f64ab5f00b28/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_a2eaa2039cad2fa30e683f9aa2f7571788c917b6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_60160acc480450ebe938fdb667ce38033fa06b0a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/exploded-aar/com.github.dongjunkun/BannerLayout/1.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c60320ef1e72c3503eb042338ad74949e2a8f41">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.dongjunkun-BannerLayout-1.0.3_ab3a9340cb310a69f6e204b470894cd29044dccb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_c4555ee2408339c59042865f6374d2b057144627/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d2a9536e84ac7e7b0662adcd35dea35de83b8ed">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f9c555ee439a8ba5c8e5f107ce107bc7d5a2ed77/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/exploded-aar/com.android.databinding/library/1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d985cdf99de8a63824b52d8a8efc309f9e5fbf01">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.1_cdb1ae7c0283b16822436face210c6785f48c24c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/exploded-aar/ru.noties/scrollable/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d8f3a38a0b68b3a62e0cb1136e71d8e9fa6346ed">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/ru.noties-scrollable-1.2.0_3685b73771775a673ee88e2338ee60ade517d9f8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_ff5edbf775ddd0339e946ea62aec37fc3deeff1e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3cae403175958af8baa00bed0bd6e04187d69415">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.1_6c6d3a228669ee267db50a9a3442519d62b54435/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.1.0/baseLibrary-2.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a7aeef173c4e5b104ec04f146f8e8f9debde1c5e">
+        <dex dex="/Users/sdbean-zlh/Documents/android/zlhDemo/MagicWeight/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.1.0_086fc8c6c72e9ce7aeea762b1cd164174a8fdef1/classes.dex" />
+    </item>
+
+</items>

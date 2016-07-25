@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="mainViewModel"
+            type="com.zlh.magicweight.viewmodel.MainViewModel"/>
+    </data>
+
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        tools:context="com.zlh.magicweight.MainActivity">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay"
+            app:elevation="0dp">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="?attr/colorPrimary"
+                app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+        </android.support.design.widget.AppBarLayout>
+
+        <ru.noties.scrollable.ScrollableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollable_layout"
+            app:scrollable_maxScroll="@dimen/header_height"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <com.yyydjk.library.BannerLayout
+                    android:id="@+id/header"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/header_height"
+                    app:autoPlayDuration="5000"
+                    app:indicatorMargin="10dp"
+                    app:indicatorPosition="centerBottom"
+                    app:indicatorShape="oval"
+                    app:indicatorSpace="3dp"
+                    app:scrollDuration="1100"
+                    app:defaultImage="@mipmap/ic_launcher"
+                    app:selectedIndicatorColor="?attr/colorPrimary"
+                    app:selectedIndicatorHeight="6dp"
+                    app:selectedIndicatorWidth="6dp"
+                    app:unSelectedIndicatorColor="#99ffffff"
+                    app:unSelectedIndicatorHeight="6dp"
+                    app:unSelectedIndicatorWidth="6dp"/>
+                <android.support.design.widget.TabLayout
+                    android:id="@+id/tabs"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/tabs_height"/>
+
+            </LinearLayout>
+
+            <android.support.v4.view.ViewPager
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="@dimen/tabs_height"
+                android:id="@+id/view_pager" />
+
+        </ru.noties.scrollable.ScrollableLayout>
+
+
+
+    </android.support.design.widget.CoordinatorLayout>
+
+</layout>

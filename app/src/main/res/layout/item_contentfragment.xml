@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <data>
+        
+        <variable
+            name="itemContentViewModel"
+            type="com.zlh.magicweight.viewmodel.ItemContentViewModel"/>
+    </data>
+
+    
+    <RelativeLayout
+        android:id="@+id/item_relative"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:onClick="@{itemContentViewModel::itemonclick}">
+
+        <TextView
+            android:id="@+id/item_titletext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/activity_horizontal_margin"
+            android:text="@{itemContentViewModel.title}"
+            tools:text="微信文章"/>
+
+    </RelativeLayout>
+
+</layout>
+
+
